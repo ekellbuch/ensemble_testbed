@@ -1,0 +1,7 @@
+# Program arguments:
+dataset: imagenet
+ood_dataset: imagenetv2mf
+seed: null
+
+
+serial_run: False
